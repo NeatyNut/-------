@@ -1,1 +1,2 @@
 - It's for expecting fresh man
+- I just want to use clustering based on x, y
