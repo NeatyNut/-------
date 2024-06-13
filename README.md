@@ -1,3 +1,2 @@
 - It's for expecting fresh man
 - I just want to use clustering based on x, y.
-- I need to change a code for k-meaen.
